@@ -1,2 +1,3 @@
-# revolt-bot
-A simple Revolt Bot for experiments whit revolt.js and typescript
+# RCDB
+
+A revolt cross discord bot in js using revolt.js & disord.js
